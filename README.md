@@ -6,10 +6,13 @@
 
 <p align="center">
   <a href="https://www.jianshu.com/u/f7bb67d86765">
-    <img src="https://img.shields.io/badge/🔥%20简书地址-brightness.svg" />
+    <img src="https://img.shields.io/badge/📖%20简书地址-brightness.svg" />
   </a>
   <a href="https://mp.weixin.qq.com/s/WicJOwSwO9HRdu39jOR7TQ">
     <img src="https://img.shields.io/badge/🚀%20微信公众号-brightness.svg" />
+  </a>
+  <a href="https://juejin.cn/user/712139265815144/posts">
+    <img src="https://img.shields.io/badge/📖%20掘金地址-brightness.svg" />
   </a>
   <a href="https://gitee.com/getActivity">
     <img src="https://img.shields.io/badge/🐴%20码云地址-brightness.svg" />
