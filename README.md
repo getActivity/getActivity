@@ -17,7 +17,7 @@
   <a href="https://gitee.com/getActivity">
     <img src="https://img.shields.io/badge/🐴%20码云地址-brightness.svg" />
   </a>
-  <a href="https://qm.qq.com/cgi-bin/qm/qr?k=7eeXOuUkZl5A5jLBh4WgcWsma2VxK6hJ&jump_from=webapi">
+  <a href="https://qm.qq.com/cgi-bin/qm/qr?k=OxQYKaFep9_QrhpsFvrg869ubkjGIeoB&jump_from=webapi">
     <img src="https://img.shields.io/badge/🐧%20加入Q群-brightness.svg" />
   </a>
   <a href="https://github.com/getActivity">
