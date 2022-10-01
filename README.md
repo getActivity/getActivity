@@ -14,8 +14,6 @@
   <a href="https://juejin.cn/user/712139265815144/posts">
     <img src="https://img.shields.io/badge/📖%20掘金地址-brightness.svg" />
   </a>
-  <a href="https://gitee.com/getActivity">
-    <img src="https://img.shields.io/badge/🐴%20码云地址-brightness.svg" />
   </a>
   <a href="https://qm.qq.com/cgi-bin/qm/qr?k=OxQYKaFep9_QrhpsFvrg869ubkjGIeoB&jump_from=webapi">
     <img src="https://img.shields.io/badge/🐧%20加入Q群-brightness.svg" />
